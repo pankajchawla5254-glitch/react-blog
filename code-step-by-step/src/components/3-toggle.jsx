@@ -1,6 +1,6 @@
 import { useState } from "react";
-import Rohit from "./rohit";
-import Pankaj from "./pankaj";
+import Rohit from "./3-toggle/rohit";
+import Pankaj from "./3-toggle/pankaj";
 
 function Toggle() {
     const [display, setdisplay] = useState(true)
