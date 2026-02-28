@@ -3,7 +3,8 @@
 // import Toggle from "./components/3-toggle/3-toggle"
 // import Multipleconditon from "./components/4-multipleconditon"
 // import Prop from "./components/5-prop"
-import Advancprop from "./components/6-advanceprops"
+// import Advancprop from "./components/6-advanceprops"
+import Getinput from "./components/7-getinputvalue"
 
 function App() {
 
@@ -15,7 +16,8 @@ function App() {
       {/* <Toggle/> */}
       {/* <Multipleconditon/> */}
       {/* <Prop/> */}
-      <Advancprop/>
+      {/* <Advancprop/> */}
+      <Getinput/>
     </div>
   )
 }
