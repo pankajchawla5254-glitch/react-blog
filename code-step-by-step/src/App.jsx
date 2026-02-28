@@ -4,7 +4,8 @@
 // import Multipleconditon from "./components/4-multipleconditon"
 // import Prop from "./components/5-prop"
 // import Advancprop from "./components/6-advanceprops"
-import Getinput from "./components/7-getinputvalue"
+// import Getinput from "./components/7-getinputvalue"
+import Controlled from "./components/8-controlled"
 
 function App() {
 
@@ -17,7 +18,8 @@ function App() {
       {/* <Multipleconditon/> */}
       {/* <Prop/> */}
       {/* <Advancprop/> */}
-      <Getinput/>
+      {/* <Getinput/> */}
+      <Controlled/>
     </div>
   )
 }
