@@ -2,7 +2,8 @@
 // import CounterApp from "./components/2-counter"
 // import Toggle from "./components/3-toggle/3-toggle"
 // import Multipleconditon from "./components/4-multipleconditon"
-import Prop from "./components/5-prop"
+// import Prop from "./components/5-prop"
+import Advancprop from "./components/6-advanceprops"
 
 function App() {
 
@@ -13,7 +14,8 @@ function App() {
       {/* <CounterApp/> */}
       {/* <Toggle/> */}
       {/* <Multipleconditon/> */}
-      <Prop/>
+      {/* <Prop/> */}
+      <Advancprop/>
     </div>
   )
 }
