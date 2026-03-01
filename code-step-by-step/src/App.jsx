@@ -6,7 +6,8 @@
 // import Advancprop from "./components/6-advanceprops"
 // import Getinput from "./components/7-getinputvalue"
 // import Controlled from "./components/8-controlled"
-import Checkboxes from "./components/9-checkboxes"
+// import Checkboxes from "./components/9-checkboxes"
+import Radio from "./components/10-radio"
 
 function App() {
 
@@ -21,7 +22,8 @@ function App() {
       {/* <Advancprop/> */}
       {/* <Getinput/> */}
       {/* <Controlled/> */}
-      <Checkboxes/>
+      {/* <Checkboxes/> */}
+      <Radio/>
     </div>
   )
 }
