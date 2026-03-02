@@ -7,7 +7,8 @@
 // import Getinput from "./components/7-getinputvalue"
 // import Controlled from "./components/8-controlled"
 // import Checkboxes from "./components/9-checkboxes"
-import Radio from "./components/10-radio"
+// import Radio from "./components/10-radio"
+import LoopMap from "./components/11-loop"
 
 function App() {
 
@@ -23,7 +24,8 @@ function App() {
       {/* <Getinput/> */}
       {/* <Controlled/> */}
       {/* <Checkboxes/> */}
-      <Radio/>
+      {/* <Radio/> */}
+      <LoopMap/>
     </div>
   )
 }
