@@ -8,7 +8,8 @@
 // import Controlled from "./components/8-controlled"
 // import Checkboxes from "./components/9-checkboxes"
 // import Radio from "./components/10-radio"
-import LoopMap from "./components/11-loop"
+// import LoopMap from "./components/11-loop"
+import Reuse from "./components/12-reuse"
 
 function App() {
 
@@ -25,7 +26,8 @@ function App() {
       {/* <Controlled/> */}
       {/* <Checkboxes/> */}
       {/* <Radio/> */}
-      <LoopMap/>
+      {/* <LoopMap/> */}
+      <Reuse/>
     </div>
   )
 }
