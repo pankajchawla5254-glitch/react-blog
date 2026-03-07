@@ -9,7 +9,8 @@
 // import Checkboxes from "./components/9-checkboxes"
 // import Radio from "./components/10-radio"
 // import LoopMap from "./components/11-loop"
-import Reuse from "./components/12-reuse"
+// import Reuse from "./components/12-reuse"
+import Effect from "./components/13-useEffect"
 
 function App() {
 
@@ -27,7 +28,8 @@ function App() {
       {/* <Checkboxes/> */}
       {/* <Radio/> */}
       {/* <LoopMap/> */}
-      <Reuse/>
+      {/* <Reuse/> */}
+      <Effect/>
     </div>
   )
 }
