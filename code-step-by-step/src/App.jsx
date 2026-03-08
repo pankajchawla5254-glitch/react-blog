@@ -11,7 +11,8 @@
 // import LoopMap from "./components/11-loop"
 // import Reuse from "./components/12-reuse"
 // import Effect from "./components/13-useEffect"
-import PropsEffect from "./components/14-propsEffect"
+// import PropsEffect from "./components/14-propsEffect"
+import LifeCycle from "./components/15-lifecycle"
 
 function App() {
 
@@ -31,7 +32,8 @@ function App() {
       {/* <LoopMap/> */}
       {/* <Reuse/> */}
       {/* <Effect/> */}
-      <PropsEffect/>
+      {/* <PropsEffect/> */}
+      <LifeCycle/>
     </div>
   )
 }
