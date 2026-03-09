@@ -12,7 +12,8 @@
 // import Reuse from "./components/12-reuse"
 // import Effect from "./components/13-useEffect"
 // import PropsEffect from "./components/14-propsEffect"
-import LifeCycle from "./components/15-lifecycle"
+// import LifeCycle from "./components/15-lifecycle"
+import InlineStyle from "./components/16-inline"
 
 function App() {
 
@@ -33,7 +34,8 @@ function App() {
       {/* <Reuse/> */}
       {/* <Effect/> */}
       {/* <PropsEffect/> */}
-      <LifeCycle/>
+      {/* <LifeCycle/> */}
+      <InlineStyle/>
     </div>
   )
 }
