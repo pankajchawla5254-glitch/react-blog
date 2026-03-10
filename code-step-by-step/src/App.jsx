@@ -13,7 +13,8 @@
 // import Effect from "./components/13-useEffect"
 // import PropsEffect from "./components/14-propsEffect"
 // import LifeCycle from "./components/15-lifecycle"
-import InlineStyle from "./components/16-inline"
+// import InlineStyle from "./components/16-inline"
+// import DynamicInline from "./components/17-dynamicinline"
 
 function App() {
 
@@ -35,7 +36,8 @@ function App() {
       {/* <Effect/> */}
       {/* <PropsEffect/> */}
       {/* <LifeCycle/> */}
-      <InlineStyle/>
+      {/* <InlineStyle/> */}
+      {/* <DynamicInline/> */}
     </div>
   )
 }
