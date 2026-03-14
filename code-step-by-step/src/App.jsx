@@ -17,6 +17,7 @@
 // import DynamicInline from "./components/17-dynamicinline"
 // import Cssmodule from "./components/18-cssmodule"
 // import Styled from "./components/19-styled"
+// import Bootstrap from "./components/20-bootstrap"
 
 function App() {
 
@@ -42,6 +43,7 @@ function App() {
       {/* <DynamicInline/> */}
       {/* <Cssmodule/> */}
       {/* <Styled/> */}
+      {/* <Bootstrap/> */}
     </div>
   )
 }
