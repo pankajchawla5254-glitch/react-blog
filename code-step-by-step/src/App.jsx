@@ -15,6 +15,7 @@
 // import LifeCycle from "./components/15-lifecycle"
 // import InlineStyle from "./components/16-inline"
 // import DynamicInline from "./components/17-dynamicinline"
+// import Cssmodule from "./components/18-cssmodule"
 
 function App() {
 
@@ -38,6 +39,7 @@ function App() {
       {/* <LifeCycle/> */}
       {/* <InlineStyle/> */}
       {/* <DynamicInline/> */}
+      {/* <Cssmodule/> */}
     </div>
   )
 }
