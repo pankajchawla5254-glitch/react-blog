@@ -19,7 +19,8 @@
 // import Styled from "./components/19-styled"
 // import Bootstrap from "./components/20-bootstrap
 // import Useref from "./components/21-useref"
-// import Uncontrolled from "./components/22-uncontrolled"
+// import Uncontrolled from "./components/22-uncontrolled
+// import PassFun from "./components/23-passfunc"
 
 function App() {
 
@@ -48,6 +49,7 @@ function App() {
       {/* <Bootstrap/> */}
       {/* <Useref/> */}
       {/* <Uncontrolled/> */}
+      {/* <PassFun/> */}
     </div>
   )
 }
