@@ -17,7 +17,8 @@
 // import DynamicInline from "./components/17-dynamicinline"
 // import Cssmodule from "./components/18-cssmodule"
 // import Styled from "./components/19-styled"
-// import Bootstrap from "./components/20-bootstrap"
+// import Bootstrap from "./components/20-bootstrap
+// import Useref from "./components/21-useref"
 
 function App() {
 
@@ -44,6 +45,7 @@ function App() {
       {/* <Cssmodule/> */}
       {/* <Styled/> */}
       {/* <Bootstrap/> */}
+      {/* <Useref/> */}
     </div>
   )
 }
